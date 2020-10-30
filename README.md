@@ -1,2 +1,2 @@
 # python_data_analysis_20201026
-利用python进行数据分析项目联系
+利用python进行数据分析项目练习
